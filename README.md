@@ -4,4 +4,5 @@
 
 ## Salvando alterações no Git
 
-* comando git pushh
+* comando git push
+* comando git pull
